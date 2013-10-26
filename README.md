@@ -1,4 +1,4 @@
 IRC
 ===
 
-Check here for IRC to join and speak with us
+You can either join #PocketMinePlugins @ irc.freenode.net or join the [Web IRC] (http://webchat.freenode.net/?channels=%23PocketMinePlugins)
